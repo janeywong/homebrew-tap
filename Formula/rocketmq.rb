@@ -4,8 +4,8 @@
 class Rocketmq < Formula
   desc "Apache RocketMQ is a distributed messaging and streaming platform with low latency, high performance and reliability, trillion-level capacity and flexible scalability."
   homepage "https://rocketmq.apache.org/"
-  url "http://mirror.bit.edu.cn/apache/rocketmq/4.6.0/rocketmq-all-4.6.0-bin-release.zip"
-  sha256 "584910d50639297808dd0b86fcdfaf431efd9607009a44c6258d9a0e227748fe"
+  url "https://mirrors.cloud.tencent.com/apache/rocketmq/5.1.0/rocketmq-all-5.1.0-bin-release.zip"
+  sha256 "9d66b401a78e7a205b36ba3f7e3bfe4b1f99a04ba89d0ba77ed013d6d63ca332"
 
   bottle :unneeded
   # depends_on "cmake" => :build
