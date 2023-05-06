@@ -7,7 +7,7 @@ class Rocketmq < Formula
   url "https://mirrors.cloud.tencent.com/apache/rocketmq/5.1.0/rocketmq-all-5.1.0-bin-release.zip"
   sha256 "9d66b401a78e7a205b36ba3f7e3bfe4b1f99a04ba89d0ba77ed013d6d63ca332"
 
-  bottle :unneeded
+  # bottle :unneeded
   # depends_on "cmake" => :build
 
   def install
